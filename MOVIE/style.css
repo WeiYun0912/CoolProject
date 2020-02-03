@@ -109,3 +109,19 @@ p.text {
 p.text span {
   color: #6feaf6;
 }
+
+button.btn {
+  background-color: #333333;
+  color: #fff;
+  border: 1px #fff solid;
+  outline: 0;
+  margin-top: 10px;
+}
+
+button.btn:hover {
+  cursor: pointer;
+}
+
+button.btn:active {
+  background-color: #242333;
+}
